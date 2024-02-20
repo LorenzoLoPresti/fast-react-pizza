@@ -26,4 +26,4 @@ Redux, Tailwind
 
 ## Start
 
-`npm run dev`
+Navigare nella cartella del progetto con il terminale e inserire il comando: `npm run dev`
