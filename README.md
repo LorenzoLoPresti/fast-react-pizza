@@ -23,3 +23,7 @@ Potrà anche verificare lo stato del suo ordine inserendo il codice d'ordine for
 ## Argomenti approfonditi
 
 Redux, Tailwind
+
+## Start
+
+`npm run dev`
