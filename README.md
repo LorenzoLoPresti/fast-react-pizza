@@ -27,5 +27,5 @@ Redux, Tailwind
 ## Start
 
 - Navigare alla cartella del progetto con il terminale
-- Installare le dipendenze: npm i
-- Avviare l'applicazione inserendo il comando npm run dev
+- Installare le dipendenze: `npm i`
+- Avviare l'applicazione inserendo il comando `npm run dev`
